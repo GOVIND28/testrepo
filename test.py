@@ -1,1 +1,1 @@
-print("sample code | V2 "
+print("sample code | V2 ")
